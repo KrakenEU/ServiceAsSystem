@@ -7,7 +7,7 @@ Automates the creation of a SYSTEM service locally or remotelly
 (localy)
 .\ServiceAsSystem "c:\windows\tasks\loader.exe c:\windows\tasks\payload.txt"
 
-(remote computer we are admin)
+(remote computer where we are admin)
 .\ServiceAsSystem "c:\windows\tasks\loader.exe c:\windows\tasks\payload.txt" \\remote-computer
 ```
 
