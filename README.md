@@ -16,3 +16,5 @@ The service default name is SystemPayloadService. you can change it at the top o
 ```
 #define SERVICE_NAME _T("SystemPayloadService")
 ```
+
+![image](https://github.com/user-attachments/assets/b1767834-04ff-430d-91ea-026c9770d1da)
